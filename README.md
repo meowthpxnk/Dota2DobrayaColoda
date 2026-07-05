@@ -2,8 +2,8 @@
 
 # Слушаем балдеем
 
-yandexmusic[https://music.yandex.ru/artist/23645333]
-vkmusic[https://vk.com/artist/5410374050909052816]
+[![YANDEXMUSIC](https://img.shields.io/badge/YANDEXMUSIC-yellow?style=for-the-badge)](https://music.yandex.ru/artist/23645333)
+[![TELEGRAM](https://img.shields.io/badge/VKMUSIC-darkblue?logo=VK&style=for-the-badge)](https://vk.com/artist/5410374050909052816)
 [![TELEGRAM](https://img.shields.io/badge/TELEGRAM-blue?logo=telegram&style=for-the-badge)](https://t.me/meowthpxnk)
 
 ## Как установить мод
