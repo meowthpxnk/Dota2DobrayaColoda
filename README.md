@@ -43,19 +43,21 @@
     ```
 
     sovanaskakalke - все меняется на сову, так же как на видосе в тиктоке
+
+    ```
     {
-    Game*Language dota*_LANGUAGE_
-    Game*LowViolence dota_lv
-    Game sovanaskakalke
-    Game dota
-    Game core
-    Mod sovanaskakalke
-    Mod dota
-    Write dota
-    AddonRoot_Language dota*_LANGUAGE_\_addons
-    AddonRoot dota_addons
-    PublicContent dota_core
-    PublicContent core
+        Game*Language dota*_LANGUAGE_
+        Game*LowViolence dota_lv
+        Game sovanaskakalke
+        Game dota
+        Game core
+        Mod sovanaskakalke
+        Mod dota
+        Write dota
+        AddonRoot_Language dota*_LANGUAGE_\_addons
+        AddonRoot dota_addons
+        PublicContent dota_core
+        PublicContent core
     }
 
     ```
@@ -125,6 +127,8 @@
         }
 
     }
+
+    ```
 
     ```
 
