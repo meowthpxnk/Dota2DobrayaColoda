@@ -4,7 +4,7 @@
 
 yandexmusic[https://music.yandex.ru/artist/23645333]
 vkmusic[https://vk.com/artist/5410374050909052816]
-https://img.shields.io/badge/TELEGRAM-blue?logo=telegram&style=for-the-badge[t.me/meowthpxnk]
+[![TELEGRAM](https://img.shields.io/badge/TELEGRAM-blue?logo=telegram&style=for-the-badge)](https://t.me/meowthpxnk)
 
 ## Как установить мод
 
