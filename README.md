@@ -62,7 +62,7 @@
         Mod sovanaskakalke
         Mod dota
         Write dota
-        AddonRoot_Language dota*_LANGUAGE_\_addons
+        AddonRoot_Language dota_*LANGUAGE*_addons
         AddonRoot dota_addons
         PublicContent dota_core
         PublicContent core
