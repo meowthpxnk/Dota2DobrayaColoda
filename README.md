@@ -2,11 +2,18 @@
 
 # Слушаем балдеем
 
-[![YANDEXMUSIC](https://img.shields.io/badge/YANDEXMUSIC-yellow?style=for-the-badge)](https://music.yandex.ru/artist/23645333)
-[![TELEGRAM](https://img.shields.io/badge/VKMUSIC-darkblue?logo=VK&style=for-the-badge)](https://vk.com/artist/5410374050909052816)
-[![TELEGRAM](https://img.shields.io/badge/TELEGRAM-blue?logo=telegram&style=for-the-badge)](https://t.me/meowthpxnk)
+[![YANDEXMUSIC](https://img.shields.io/badge/YANDEXMUSIC-yellow?style=for-the-badge)](https://music.yandex.ru/artist/23645333) [![TELEGRAM](https://img.shields.io/badge/VKMUSIC-darkblue?logo=VK&style=for-the-badge)](https://vk.com/artist/5410374050909052816) [![TELEGRAM](https://img.shields.io/badge/TELEGRAM-blue?logo=telegram&style=for-the-badge)](https://t.me/meowthpxnk)
 
-## Как установить мод через Installer.bat
+## Самая простая установка незаебная
+
+1.  Скачайте последний релиз распакуйте файлы в любую папку.[^1]
+2.  Выбрать патч
+    sovanaskakalke - все меняется на сову, так же как на видосе в тиктоке
+    dobraya_coloda - колода из 11 самых добрых карт + кастом предсказания
+3.  Файл из папки patches/{PATCH_NAME}/pak02_dir.vpk перекиньте в папку game/dota_russian
+4.  Зайти в доту и получить добрые предсказания!
+
+## Как установить мод через Installer.bat (Чтобы не лазит в папку dota_russian созданую дотой)
 
 1. Скачайте последний релиз распакуйте файлы в любую папку.
 2. Запустить Installer.bat[^2]
@@ -14,12 +21,12 @@
 3. Выбрать патч
    sovanaskakalke - все меняется на сову, так же как на видосе в тиктоке
    dobraya_coloda - колода из 11 самых добрых карт + кастом предсказания
-4. Зайти в доту получить добрые предсказания!
+4. Зайти в доту и получить добрые предсказания!
 
 ## Ручная установка мода
 
-1.  Скачайте последний релиз распакуйте файлы в любую папку.[^1]
-2.  Файлы из папки patches киньте в папку game
+1.  Скачайте последний релиз распакуйте файлы в любую папку.
+2.  Файлы из папки patches киньте в папку game[^1]
 3.  Измените файл game/dota/gameinfo_branchspecific.gi
 
     dobraya_coloda - колода из 11 самых добрых карт + кастом предсказания
@@ -130,9 +137,7 @@
 
     ```
 
-    ```
-
-    ```
+4.  Зайти в доту и получить добрые предсказания!
 
 ## Сноски
 
