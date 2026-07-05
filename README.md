@@ -2,16 +2,15 @@
 
 # Слушаем балдеем
 
-yandexmusic -
-vkmusic -
-telegram - t.me/meowthpxnk
+yandexmusic[https://music.yandex.ru/artist/23645333]
+vkmusic[https://vk.com/artist/5410374050909052816]
+https://img.shields.io/badge/TELEGRAM-blue?logo=telegram&style=for-the-badge[t.me/meowthpxnk]
 
 ## Как установить мод
 
-1. скачайте последний релиз
-   распакуйте файлы в папку доты.[^1]
-
-2. Запустить PatchSelect.bat
+1. скачайте последний релиз распакуйте файлы в папку доты.[^1]
+   sss
+2. Запустить Installer.bat
 
 3. Выбрать патч
    sovanaskakalke - все меняется на сову, так же как на видосе в тиктоке
@@ -22,3 +21,5 @@ telegram - t.me/meowthpxnk
 ## Сноски
 
 [^1]: Как открыть файлы доты? Пкм по доте в steam -> Управление -> Посмотреть локальные файлы
+
+[^2]: Если апдейт слетел то еще раз запустите Installer.bat
